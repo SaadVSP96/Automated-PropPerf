@@ -1,0 +1,12 @@
+...Comp Geom...
+1 Num Comps
+1 Total Num Meshes
+3920 Total Num Tris
+
+Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
+11457.317  11457.317   3599.477   3599.477  Clark_Y_airfoil
+-------------------------------------------------
+11457.317  11457.317   3599.477   3599.477  Totals         
+
+Tag_Theo_Area   Tag_Wet_Area    Tag_Name
+    11457.317      11457.317    Clark_Y_airfoil_Surf0

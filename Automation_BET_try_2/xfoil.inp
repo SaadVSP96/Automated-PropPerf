@@ -1,0 +1,22 @@
+load ClarkY.dat
+oper
+iter
+200
+
+
+
+oper
+re 47443.7
+mach 0.0082356
+visc
+pacc
+
+
+alfa 21.471
+dump xfoil_a21.471_dump.dat
+cpwr xfoil_a21.471_cpwr.dat
+pwrt
+xfoil_pwrt.dat
+plis
+
+quit
